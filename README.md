@@ -10,9 +10,8 @@
  ![image](https://user-images.githubusercontent.com/113748627/219702709-ecbee64d-e5f7-495e-9c76-eb15e9a810a7.png)
 
  
- Click here to the Dashboard:
- https://public.tableau.com/app/profile/steven.phillips1875/viz/Project4Dashboard-ChicagoCrime/ChicagoCrimeAnalysis?publish=yes
-
+ Click here to visit the Dashboard:
+ 
  https://public.tableau.com/app/profile/steven.phillips1875/viz/ChicagoCrimeDataAnalysisDashboard/ChicagoCrimeAnalysis
 
 
