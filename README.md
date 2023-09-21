@@ -12,7 +12,7 @@
  
  Click here to visit the Dashboard:
  
- https://public.tableau.com/app/profile/steven.phillips1875/viz/ChicagoCrimeDataAnalysisDashboard/ChicagoCrimeAnalysis
+ [Chicago Crime Data Analysis Dashboard](https://public.tableau.com/app/profile/steven.phillips1875/viz/ChicagoCrimeDataAnalysisDashboard/ChicagoCrimeAnalysis)
 
 
  ## Observations:
