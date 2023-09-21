@@ -1,6 +1,5 @@
 # Chicago Crime Data Analysis
- Chicago Crime Data
- Source: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+ [Chicago Crime Data Source](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
  
  
  
@@ -12,7 +11,7 @@
  
  Click here to visit the Dashboard:
  
- [Chicago Crime Data Analysis Dashboard](https://public.tableau.com/app/profile/steven.phillips1875/viz/ChicagoCrimeDataAnalysisDashboard/ChicagoCrimeAnalysis)
+ [Chicago Crime Data Analysis Dashboard by Steven Phillips](https://public.tableau.com/app/profile/steven.phillips1875/viz/ChicagoCrimeDataAnalysisDashboard/ChicagoCrimeAnalysis)
 
 
  ## Observations:
